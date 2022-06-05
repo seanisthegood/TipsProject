@@ -1,0 +1,66 @@
+,,Employee,Points,Hours,Cut, Payroll 
+Monday_am,0,"Prato, Colin",1.0,5.6,5.6,65.9
+Monday_am,1,"Turner, Ryan",1.0,5.9,5.9,69.44
+Monday_am,2,TOTALS,0.0,11.5,11.5,135.34
+Monday_pm,0,"Halley, Patrick, ",1.0,5.0,5.0,105.56
+Monday_pm,1,"Nelson, Kayla",1.0,5.7,5.7,120.34
+Monday_pm,2,"Haytayan, Jackie",1.0,4.8,4.8,101.34
+Monday_pm,3,TOTALS,0.0,15.5,15.5,327.24
+Tuesday_am,0,"Diaby, Falikou",1.0,5.6,5.6,36.81
+Tuesday_am,1,"Prato, Colin",1.0,6.0,6.0,39.44
+Tuesday_am,2,TOTALS,0.0,11.6,11.6,76.25
+Tuesday_pm,0,"Nelson, Kayla",1.0,4.3,4.3,103.02
+Tuesday_pm,1,"White, Cyrus",1.0,6.0,6.0,143.75
+Tuesday_pm,2,"Haytayan, Jackie",1.0,5.1,5.1,122.19
+Tuesday_pm,3,TOTALS,0.0,15.4,15.4,368.97
+Wednesday_am,0,"Butter, Jacob",1.0,6.5,6.5,131.27
+Wednesday_am,1,"White, Cyrus",1.0,6.6,6.6,133.28
+Wednesday_am,2,TOTALS,0.0,13.1,13.1,264.55
+Wednesday_pm,0,"Bautista, Alexis",0.5,5.0,2.5,70.46
+Wednesday_pm,1,"Butter, Jacob",1.0,5.2,5.2,146.55
+Wednesday_pm,2,"Halley, Patrick, ",1.0,5.15,5.15,145.15
+Wednesday_pm,3,"Nelson, Kayla",1.0,5.35,5.35,150.78
+Wednesday_pm,4,TOTALS,0.0,20.7,18.2,512.94
+Thursday_am,0,"Diaby, Falikou",1.0,6.0,6.0,78.44
+Thursday_am,1,"Prato, Colin",1.0,6.0,6.0,78.44
+Thursday_am,2,TOTALS,0.0,12.0,12.0,156.87
+Thursday_pm,0,"Bautista, Alexis",0.5,4.75,2.38,47.88
+Thursday_pm,1,"Pachero, Celso",0.5,5.35,2.68,53.93
+Thursday_pm,2,"Hart, Sean",1.0,5.5,5.5,110.88
+Thursday_pm,3,"Gonzalez, Amanda",1.0,5.5,5.5,110.88
+Thursday_pm,4,"Miller, Kellie",1.0,5.5,5.5,110.88
+Thursday_pm,5,TOTALS,0.0,26.6,21.55,434.44
+Friday_am,0,"Bautista, Alexis",0.5,5.5,2.75,88.79
+Friday_am,1,"Miller, Kellie",1.0,6.0,6.0,193.73
+Friday_am,2,"Nelson, Kayla",1.0,6.5,6.5,209.88
+Friday_am,3,TOTALS,0.0,18.0,15.25,492.4
+Friday_pm,0,"Bautista, Alexis",0.5,5.2,2.6,89.11
+Friday_pm,1,"Pachero, Celso",0.5,6.25,3.13,107.1
+Friday_pm,2,"Hart, Sean",1.0,6.65,6.65,227.91
+Friday_pm,3,"Butter, Jacob",1.0,6.1,6.1,209.06
+Friday_pm,4,"Halley, Patrick, ",1.0,6.75,6.75,231.34
+Friday_pm,5,TOTALS,0.0,30.95,25.23,864.52
+Saturday_am,0,patrick,0.2,5.14,1.03,37.34
+Saturday_am,1,"Diaby, Falikou",0.6,6.65,3.99,144.92
+Saturday_am,2,"Diaz, Bladimir",0.5,4.5,2.25,81.72
+Saturday_am,3,"White, Cyrus",1.0,7.35,7.35,266.96
+Saturday_am,4,"Turner, Ryan",1.0,6.5,6.5,236.09
+Saturday_am,5,"Haytayan, Jackie",1.0,6.2,6.2,225.19
+Saturday_am,6,TOTALS,0.0,31.2,26.29,954.88
+Saturday_pm,0,patrick,0.2,3.38,0.68,29.98
+Saturday_pm,1,"Pachero, Celso",0.5,6.3,3.15,139.69
+Saturday_pm,2,"Hart, Sean",1.0,7.2,7.2,319.3
+Saturday_pm,3,"Gonzalez, Amanda",1.0,6.1,6.1,270.52
+Saturday_pm,4,"Miller, Kellie",1.0,7.0,7.0,310.43
+Saturday_pm,5,TOTALS,0.0,26.6,23.45,1039.94
+Sunday_am,0,patrick,0.2,5.3,1.06,50.6
+Sunday_am,1,"Diaby, Falikou",0.6,6.36,3.82,182.15
+Sunday_am,2,"Hart, Sean",1.0,7.0,7.0,334.14
+Sunday_am,3,"Butter, Jacob",1.0,7.0,7.0,334.14
+Sunday_am,4,"Turner, Ryan",1.0,7.0,7.0,334.14
+Sunday_am,5,TOTALS,0.0,27.36,24.82,1184.56
+Sunday_pm,0,"Pachero, Celso",0.5,5.0,2.5,88.43
+Sunday_pm,1,"Butter, Jacob",1.0,4.5,4.5,159.18
+Sunday_pm,2,"White, Cyrus",1.0,7.0,7.0,247.61
+Sunday_pm,3,"Haytayan, Jackie",1.0,7.0,7.0,247.61
+Sunday_pm,4,TOTALS,0.0,23.5,21.0,742.83
