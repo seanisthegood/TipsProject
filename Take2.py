@@ -11,7 +11,7 @@ import streamlit as st
 # In[3]:
 
 
-
+df = pd.read_csv("progress_report.csv")
 if st.checkbox('Show dataframe'):
     st.write(df)
 
@@ -27,7 +27,7 @@ if st.checkbox('Show dataframe'):
 # In[8]:
 
 
-df = pd.read_csv("progress_report.csv")
+
 Employees = st.multiselect('Show Player for clubs?', df['Employee'].unique())
 # nationalities = st.multiselect('Show Player from Nationalities?', df['Nationality'].unique())
 # Filter dataframe
